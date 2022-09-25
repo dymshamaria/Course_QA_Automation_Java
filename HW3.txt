@@ -159,7 +159,7 @@ public class HW3 {
 
         String nameTasks12 = "Task №12 ";
         System.out.println(nameTasks12);
-        String name = "HELLO JAVA";                      //!!!!!!!!!!!!!!!!!!!!!!!!!
+        String name = "HELLO JAVA";                     
         System.out.println(name);
 
 
@@ -357,6 +357,5 @@ public class HW3 {
         System.out.println(nameTasks26);
         System.out.println("202 - thunderstorm with heavy rain\n" +
                 "884 - overcast clouds:85-100%\n" + "613 - Shower sleet");
-
     }
 }
