@@ -275,6 +275,4 @@ public class HW2 {
         int formF = brestC * 1 + 32;
         System.out.println("℉ =℃ * 1.8000+ 32.00 = " + formF);
     }
-
-
 }
