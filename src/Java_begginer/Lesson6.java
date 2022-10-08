@@ -7,11 +7,11 @@ public class Lesson6 {
 //
 //        }
 
-        //Печатаем "Java for begginers" для всех чисел от 1 до 5 включительно
+        //Печатаем "Java for beginners" для всех чисел от 1 до 5 включительно
 
 //        for(int i=1; i < 6; i++){
 //
-//            System.out.println("Java for begginers");
+//            System.out.println("Java for beginners");
 //        }
 
         //Печатаем числа от 1 до 5 включительно
