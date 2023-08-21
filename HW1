@@ -67,4 +67,3 @@ public class HW1 {
         } else {
             System.out.println(b + " - это число нечетное");
         }
-
