@@ -994,4 +994,3 @@ public class HW5 {
 //        System.out.println(median(a1, b2, c3, median1));
     }
 }
-
