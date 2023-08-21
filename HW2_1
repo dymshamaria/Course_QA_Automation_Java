@@ -15,7 +15,6 @@ public class HW2 {
             System.out.println((a > b) + " переменная 2 меньше 1");
         }
 
-
         String task1 = "Task № ";
         int number1 = 2;
         System.out.println(task1 + number1);
@@ -96,7 +95,3 @@ public class HW2 {
             }
         }
     }
-
-
-
-
